@@ -22,6 +22,8 @@ CnC Tiberium Alliances Map 05/22/04 [+info]
 
 b) or you can simply install it separately via OrangeMonkey/Tampermonkey and others like that
 
+In game you can find this script on top panel in submenu SCRIPT
+
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -44,3 +46,5 @@ https://chromewebstore.google.com/detail/cncta-soo-script-pack/mhohhaneodmbojhib
 CnC Tiberium Alliances Map 22.05.04 [ +info ]
 
 б) либо можно просто отдельно его добавить через OrangeMonkey/Tampermonkey и другие подобные
+
+В игре скрипт в верхней менюшке в подменю SCRIPTS
