@@ -7,10 +7,12 @@ This file is a part of big pack
 CnCTA SoO SCRIPT PACK
 https://chromewebstore.google.com/detail/cncta-soo-script-pack/mhohhaneodmbojhibocihibkiiafigkl
 
-After the latest changes to the game, it didn’t work and I fixed it, and also added the ability to set the level of POI or forgotten tunnels I was interested in.
-Added a map update button immediately after changing the color or level of tunnels/POIs without rebooting - it looks like this: ✓
+After the latest changes to the game, it didn’t work and I fixed it. The link to the page with the names of colors and the choice of alliances has also been corrected.
 
-The link to the page with the names of colors and the choice of alliances has also been corrected.
+Also added:
+- the ability to set the level of POI or forgotten tunnels I was interested in.
+- a map update button immediately after changing the color or level of tunnels/POIs without reloading - it looks like this: ✓
+
 
 Installation: 
 a) As a part of pack: 
