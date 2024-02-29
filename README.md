@@ -1,4 +1,4 @@
-# TA_POI_map
+# TA_Map.user.js 
 C&amp;C: Tiberium Alliances Map - Shows your the region map with POI
 
 
