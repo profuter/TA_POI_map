@@ -1099,6 +1099,16 @@
                                                 if (wObj[this.obfPOIType] == 0) {
                                                     // Tunnel
                                                     ctx.fillStyle = this.visOptions.settingsPanel.tunnelColor;
+
+                                                    if (this.visOptions.poi == 0) {
+                                                        // Selected POI = << All >>
+                                                        if (poiBetweenMinMax) {
+                                                            hilitePois.push([cx, cy]);
+                                                            // console.log(`вывожу все от ${minPoiLvl} до ${maxPoiLvl} `, this.visOptions.poi, wObj[this.obfPOIType], wObj)
+                                                        }
+
+                                                    }
+
                                                 } else {
                                                     // POI
                                                     ctx.fillStyle = this.visOptions.settingsPanel.poiColor;
